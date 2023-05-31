@@ -1063,4 +1063,4 @@ http://video.telesafor.com/hls/video_low.m3u8
 http://ventdelnord.tv:8080/girona/directe.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w9LqkSW.png" group-title="SPAIN",Tenerife 2030
 http://livestream.iter.es:9876…"
- https://gist.githubusercontent.com/ashwhall/73a2e62b13fd58010a87a2dec7408c0e/raw/ca3a2e19a5a62a1ace30d06df1888c14b5fe9932/livetv.m3u#:~:text=%23EXTM3U%0A%0A%23EXTINF%3A%2D1,vstv/yenbaitv.m3u8
+
