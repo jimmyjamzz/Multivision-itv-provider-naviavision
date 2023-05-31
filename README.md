@@ -1,7 +1,7 @@
 # Multivision idioma Inglés us channel -iptv-provider-naviavision
 #EXTM3U
 #us channel;
-#EXTINF:-1 tvg-id="US channel" tvg-name=" channel naviavision iptv" tvg-logo=" https://ibb.co/FYKWqB1 " group-title="USA",30A TV
+#EXTINF:-1 tvg-id="US channel" tvg-name=" channel naviavision iptv" tvg-logo=" https://ibb.co/FYKWqB1.png " group-title="USA",30A TV
 http://30a-tv.com/my999.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="USA",30A Music
 http://30a-tv.com/music.m3u8?fluxustv.m3u8
